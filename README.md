@@ -15,4 +15,5 @@ Tasks accomplished while working on this project:
 •    a checkout service implementation class
 6. Wrote code to include validation to enforce the inputs needed by the Angular front-end;
 7. Wrote code for the controllers package that includes a REST controller checkout controller class with a post mapping to place orders;
-8. Debugged and made sure the program integrates successfully with the forntend app, and the data transfers accurately from/to MySQL database. 
+8. Debugged and made sure the program integrates successfully with the forntend app, and the data transfers accurately from/to MySQL database.
+
